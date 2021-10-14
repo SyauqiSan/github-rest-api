@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GithubRestApi</string>
+    <string name="colon">:</string>
+    <string name="dash">-</string>
+    <string name="close">Close</string>
+    <string name="open_repo">Open Repo</string>
+    <string name="open_user">Open User</string>
+    <string name="language">Language</string>
+    <string name="created_date">Created Date</string>
+    <string name="last_update">last Update</string>
+    <string name="author">Author</string>
+    <string name="user_image">User Image</string>
+    <string name="detail_repo">Detail Repo</string>
+    <string name="name">Name</string>
+    <string name="search_query">Search query</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort:</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+    <string name="updated">Updated</string>
+    <string name="order">Order:</string>
+    <string name="asc">Asc</string>
+    <string name="desc">Desc</string>
+    <string name="github_rest_api_viewer">Github Rest Api Viewer</string>
+</resources>
